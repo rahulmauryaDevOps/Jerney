@@ -178,3 +178,6 @@ The Vite dev server starts on `http://localhost:3000` and proxies `/api` request
 
 ---
 
+
+## My DevSecOps Practice
+Practicing this pipeline as part of hands-on DevOps learning.
